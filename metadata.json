@@ -1,0 +1,7 @@
+{
+  "name": "Brightness Override",
+  "description": "Select apps to override brightness and automatically apply optical dimming when opened.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
